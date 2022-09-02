@@ -1,5 +1,4 @@
-### Hi There~ 👋
-___
+## Hi There~ 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Silvia+Jocunda;Frontend+Web+Developer&center=true&vcenter=true&size=30&font="Shadows+Into+Light"&color="moccasin")](https://git.io/typing-svg)
 
 - 🌵 Self taught developer
@@ -8,12 +7,20 @@ ___
 📫 **_Reach me~~_**
 
 <p align="center">
-
-
-![cat](https://w7.pngwing.com/pngs/174/600/png-transparent-cat-animal-lovely-cat.png)
-
 <a href="">
-  <img alt="" width="50px" src="" />
+  <img alt="facebook" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-facebook-64.png" />
+</a>
+<a href="">
+  <img alt="github" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-github-64.png" />
+</a>
+<a href="">
+  <img alt="gmail" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-gmail-logo-64.png" />
+</a>
+<a href="">
+  <img alt="linkedin" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-linkedin-64.png" />
+</a>
+<a href="">
+  <img alt="web" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-wireframe-display-modes-64.png"/>
 </a>
 </p>
 
