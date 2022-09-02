@@ -4,23 +4,26 @@
 - 🌵 Self taught developer
 - 🤔 I’m looking for job opportunity in Frontend Web Development
 
-📫 **_Reach me~~_**
+
+<img alt="facebook" width="80px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/AS001110_04.gif" />
+
+ **_Reach me~~_**
 
 <p align="center">
-<a href="">
-  <img alt="facebook" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-facebook-64.png" />
-</a>
-<a href="">
+<a href="https://github.com/jocunda">
   <img alt="github" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-github-64.png" />
 </a>
-<a href="">
+<a href="mailto:silviawanshan88@gmail.com" title="silviawanshan88@gmail.com">
   <img alt="gmail" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-gmail-logo-64.png" />
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/silviajocunda/">
   <img alt="linkedin" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-linkedin-64.png" />
 </a>
-<a href="">
+<a href="https://jocunda.github.io/React-myweb">
   <img alt="web" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-wireframe-display-modes-64.png"/>
+</a>
+<a href="">
+  <img alt="facebook" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-facebook-64.png" />
 </a>
 </p>
 
@@ -29,7 +32,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
