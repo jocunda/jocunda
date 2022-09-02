@@ -3,11 +3,9 @@
 
 - 🌵 Self taught developer
 - 🤔 I’m looking for job opportunity in Frontend Web Development
+- :taiwan: :indonesia:
 
-
-<img alt="facebook" width="80px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/AS001110_04.gif" />
-
- **_Reach me~~_**
+_<img alt="facebook" width="90px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/overlord.gif" /> Reach me out~_
 
 <p align="center">
 <a href="https://github.com/jocunda">
@@ -22,7 +20,7 @@
 <a href="https://jocunda.github.io/React-myweb">
   <img alt="web" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-wireframe-display-modes-64.png"/>
 </a>
-<a href="">
+<a href="https://www.facebook.com/silvia.jocunda">
   <img alt="facebook" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-facebook-64.png" />
 </a>
 </p>
