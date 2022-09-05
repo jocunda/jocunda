@@ -33,7 +33,7 @@ _<img alt="facebook" width="90px" src="https://raw.githubusercontent.com/jocunda
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-<a href="https://github.com/jocunda" title="Leetcode Challenge">
+<a href="https://leetcode.com/Jocunda/" title="Leetcode Challenge">
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 </a>
