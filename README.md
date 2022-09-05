@@ -64,6 +64,9 @@ More Detail ~
 
 ### **Coding Status**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ### **Github Status**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jocunda&theme=midnight-purple&show_icons=true&hide_border=true&hide_title=true)
