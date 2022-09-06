@@ -65,6 +65,12 @@ More Detail ~
 ### **Coding Status**
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   5 mins          █████████████████████░░░░   84.44 %
+YAML       0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+```
+
 <!--END_SECTION:waka-->
 
 
