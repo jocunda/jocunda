@@ -67,12 +67,7 @@ More Detail ~
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 mins         ████████▓░░░░░░░░░░░░░░░░   35.07 %
-TypeScript   11 mins         ███████▓░░░░░░░░░░░░░░░░░   31.12 %
-Markdown     5 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
-Git          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-CSS          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-YAML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
