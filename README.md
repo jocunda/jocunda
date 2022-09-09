@@ -67,7 +67,16 @@ More Detail ~
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 September 2022 - To: 07 September 2022
+
+Total Time: 1 hr 44 mins
+
+YAML         1 hr 2 mins     >>>>>>>>>>>>>>>----------   59.71 %
+JavaScript   12 mins         >>>----------------------   12.18 %
+Markdown     12 mins         >>>----------------------   12.11 %
+TypeScript   11 mins         >>>----------------------   10.82 %
+Git          2 mins          >------------------------   02.25 %
+CSS          2 mins          >------------------------   02.20 %
 ```
 
 <!--END_SECTION:waka-->
