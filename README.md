@@ -5,7 +5,7 @@
 - 🤔 I’m looking for job opportunity in Frontend Web Development〰️
 - 🌏 Love travelling
 
-_<img alt="facebook" width="90px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/overlord.gif" /> Reach me out~_
+_Reach me out~_
 
 <p align="center">
 <a href="https://github.com/jocunda">
@@ -17,7 +17,7 @@ _<img alt="facebook" width="90px" src="https://raw.githubusercontent.com/jocunda
 <a href="https://www.linkedin.com/in/silviajocunda/">
   <img alt="linkedin" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-linkedin-64.png" />
 </a>
-<a href="https://jocunda.github.io/React-myweb">
+<a href="https://jocunda.github.io/J-Portfolio/">
   <img alt="web" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-wireframe-display-modes-64.png"/>
 </a>
 <a href="https://www.facebook.com/silvia.jocunda">
