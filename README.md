@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Silvia+Jocunda;Frontend+Web+Developer&center=true&vcenter=true&size=30&font="Shadows+Into+Light"&color="moccasin")](https://git.io/typing-svg)
 
 - 🌵 Self taught developer
-- 🤔 I’m looking for job opportunity in Frontend Web Development〰️
-- 🌏 Love travelling
+- 🌏 I’m looking for job opportunity in Frontend Web Development〰️
 
 _Reach me out~_
 
