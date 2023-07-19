@@ -66,6 +66,19 @@ More Detail ~
 ### **Coding Status**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 04 September 2022 - To: 17 July 2023
+
+Total Time: 295 hrs 45 mins
+
+TypeScript         156 hrs 16 mins █████████████▒░░░░░░░░░░░   52.84 %
+JavaScript         66 hrs 53 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+SCSS               38 hrs 30 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+JSON               11 hrs 31 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Python             3 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+```
+
 <!--END_SECTION:waka-->
 
 ### **Github Status**
