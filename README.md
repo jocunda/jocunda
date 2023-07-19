@@ -50,7 +50,7 @@ _Reach me out~_
 
 ### **Profile Visit**
 
-![Visitor Count](https://profile-counter.glitch.me/jocunda/count.svg)
+![](https://komarev.com/ghpvc/?username=jocunda&color=ff69b4&style=plastic)
 
 <details>
 <summary>
