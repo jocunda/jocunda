@@ -17,7 +17,7 @@ _Reach me out~_
 <a href="https://www.linkedin.com/in/silviajocunda/">
   <img alt="linkedin" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-linkedin-64.png" />
 </a>
-<a href="https://jocunda.github.io/J-Portfolio/">
+<a href="https://jocunda.github.io/web/">
   <img alt="web" width="50px" src="https://raw.githubusercontent.com/jocunda/jocunda/main/icons/icons8-wireframe-display-modes-64.png"/>
 </a>
 <a href="https://www.facebook.com/silvia.jocunda">
