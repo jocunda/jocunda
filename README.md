@@ -68,12 +68,12 @@ More Detail ~
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2022 - To: 17 September 2023
+From: 04 September 2022 - To: 18 September 2023
 
-Total Time: 356 hrs 9 mins
+Total Time: 356 hrs 10 mins
 
 TypeScript         186 hrs         █████████████░░░░░░░░░░░░   52.23 %
-JavaScript         77 hrs 6 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
+JavaScript         77 hrs 7 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
 SCSS               43 hrs 9 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
 JSON               15 hrs 49 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 C#                 8 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
